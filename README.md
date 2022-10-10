@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ilia
-I am IT professional with more than 8 years of experience in Information Security and System Analysis. 
+I am IT professional with more than 8 years of experience in Information Security, System and Data Analysis. 
 I am driven by learning about the latest tools and methodologies and applying my knowledge and skills to bring value to the organization I am a part of.
 
 **Skills:** Python / SQL (PostgreSQL) / Tableau / Jira / Confluence / Postman
